@@ -2,7 +2,7 @@
 	<PropertyGroup>
 		<TargetFramework>net472</TargetFramework>
 		<AssemblyName>ThirdPersonMod</AssemblyName>
-		<Description>相机补丁</Description>
+		<Description>第三人称相机mod</Description>
 		<Version>1.0.0</Version>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<LangVersion>latest</LangVersion>
